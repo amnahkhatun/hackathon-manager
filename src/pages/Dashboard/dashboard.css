@@ -1,0 +1,21 @@
+.dashboard-main{
+    display: flex;
+    justify-content: space-between;
+    padding: 2%;
+    background-color: aliceblue;
+    height: 98vh; 
+}
+.dashboard-btn{
+    padding: 3%
+}
+
+.new-hackathon-form{
+    display: inline-grid;
+    justify-content: center;
+    justify-items: center;
+    padding: 8%
+}
+
+.new-hackathon-form_label{
+    padding: 6%;
+}

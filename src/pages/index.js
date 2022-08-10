@@ -1,4 +1,4 @@
-import Login from './Login'
+import Login from './login/Login'
 import Error from './Error'
-import Dashboard from './Dashboard'
+import Dashboard from './Dashboard/Dashboard'
 export { Login, Dashboard, Error }
